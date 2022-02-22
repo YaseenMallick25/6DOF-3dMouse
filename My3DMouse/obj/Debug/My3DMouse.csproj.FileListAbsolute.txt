@@ -1,0 +1,6 @@
+C:\Users\Yaseen Mallick\source\repos\My3DMouse\bin\My3DMouse.dll
+C:\Users\Yaseen Mallick\source\repos\My3DMouse\bin\My3DMouse.pdb
+C:\Users\Yaseen Mallick\source\repos\My3DMouse\obj\Debug\My3DMouse.csproj.AssemblyReference.cache
+C:\Users\Yaseen Mallick\source\repos\My3DMouse\obj\Debug\My3DMouse.csproj.CoreCompileInputs.cache
+C:\Users\Yaseen Mallick\source\repos\My3DMouse\obj\Debug\My3DMouse.dll
+C:\Users\Yaseen Mallick\source\repos\My3DMouse\obj\Debug\My3DMouse.pdb
